@@ -4,6 +4,6 @@
 
 #### [See it Live](https://daveads.github.io/cluzzy/)
 
-# Thanks To
+Thanks
 [Original Source](https://github.com/faahim/happy-birthday)
 
