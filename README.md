@@ -29,3 +29,5 @@ npm run server-node
  python3 -m http.server 8081
 
 ```
+
+//never really bothered going deep on it
